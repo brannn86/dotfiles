@@ -77,7 +77,7 @@ symbol = ""
 style = "bg:#212736"
 format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
 
-[docker]
+[docker_context]
 symbol = ""
 style = "bg:#212736"
 format = '[[ $symbol $context ](fg:#769ff0 bg:#212736)]($style)'
